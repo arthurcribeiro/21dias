@@ -1,0 +1,1 @@
+console.log('no segundo dia aprendo o git q havia sido mal explicado no curso da ADA ;p')
